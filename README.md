@@ -4,7 +4,7 @@ ML engineer in training — I build things that combine data science with system
 
 🔭 Currently working on: Real-time stock prediction with C++ + ONNX  
 🌱 Learning: Deep learning, WebSocket feeds, embedded C++  
-📍 Chennai, India  
+📍 India  
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
