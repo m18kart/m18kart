@@ -3,7 +3,7 @@
 C/C++ | Systems Programming | Low Latency → Transitioning to Data Science & ML → Building intelligent, high-performance systems
 
 🌱 I’m currently learning DS/ML/AI
-👯 I’m looking to collaborate on Machine Learning 
+👯 I’m looking to collaborate on Data Science | Machine Learning | AI
 📍 India  
 
 ## 🌐 Socials:
